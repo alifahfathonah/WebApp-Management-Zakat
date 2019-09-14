@@ -1,0 +1,47 @@
+p{
+    font-family: sans-serif;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+}
+.yayasan{
+    text-align:right;
+}
+.desc{
+    text-align: right;
+}
+hr{
+    border: 2px solid rgb(53, 45, 45);
+}
+.kotak{
+    text-align: center;
+    border:2px solid #000;
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.bukti{
+    margin-top:10px;
+}
+.table{
+    margin-top:10px;
+    align-content: center;
+}
+th{
+    width: 300px;
+    text-align: right;
+    padding-right:20px;
+    padding-bottom:20px;
+}
+td{
+    padding-bottom:20px;
+    padding-left:10px;
+}
+.date{
+    margin-bottom: 90px;
+}
+.name{
+    margin-right:50px;
+}
